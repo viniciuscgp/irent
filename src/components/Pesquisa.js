@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Spinner } from 'react-bootstrap';
 import { Form, Col, Row, Container } from 'react-bootstrap';
-import { Botao } from '../components/Botao'
+import Botao from './Botao'
 
 const Pesquisa = (props) => {
     const { onPesquisou, pagina } = props;

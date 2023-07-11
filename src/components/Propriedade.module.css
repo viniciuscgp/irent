@@ -1,0 +1,20 @@
+.card3D {
+    transition: transform .2s;
+    box-shadow: 0 4px 5px 4px rgba(0, 0, 0, 0.8);
+}
+
+.card3D:hover {
+    transform: scale(1.02);
+}
+
+.cardCustom {
+    width: 100%;
+    max-width: 100%;
+    overflow: auto;
+}
+
+@media (min-width: 992px) {
+    .cardCustom {
+        width: 63rem;
+    }
+}

@@ -1,0 +1,10 @@
+.rodape_social {
+    font-size: medium;
+    cursor: pointer;
+    color: dodgerblue;
+
+}
+
+.rodape_social li:first-of-type {
+    color: yellow;
+}

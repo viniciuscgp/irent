@@ -84,7 +84,7 @@ O iRent é uma aplicação front-end criada com HTML, CSS, JavaScript e React, c
     * O projeto está hospedo no git:
 ---    
 - (1,0 pts) Deve ser criado um projeto público no Figma. O link do Figma deve ser adicionado também ao README.md do projeto do front no github.
-    * 
+    * https://www.figma.com/file/86lwQS1PpijPgFNZwcFllm/iRent?type=design&node-id=0%3A1&mode=design&t=ZuHe1iynkN5zHPhM-1
 ---
    
 ## Licença
